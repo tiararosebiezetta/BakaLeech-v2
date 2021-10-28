@@ -22,7 +22,7 @@ For webmasters, if you have not tried the script before, download and install no
 For end-users, you may search on our forum for readily available installed scripts on servers worldwide. You may use them but please support these sites by visiting their sponsors or donate in order to keep these sites available.
 
 ## Deploy to Scalingo
-https://dashboard.scalingo.com/create/app?source=https%3A%2F%2Fgithub.com%2Ftiararosebiezetta%2FBakaLeech-v2
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https%3A%2F%2Fgithub.com%2Ftiararosebiezetta%2FBakaLeech-v2)
 
 ## Telegram Support:
 
